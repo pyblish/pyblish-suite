@@ -1,0 +1,9 @@
+[submodule "pyblish"]
+	path = pyblish
+	url = https://github.com/abstractfactory/pyblish.git
+[submodule "pyblish-endpoint"]
+	path = pyblish-endpoint
+	url = https://github.com/pyblish/pyblish-endpoint
+[submodule "pyblish-qml"]
+	path = pyblish-qml
+	url = https://github.com/pyblish/pyblish-qml
