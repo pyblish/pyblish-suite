@@ -1,9 +1,18 @@
 [submodule "pyblish"]
 	path = pyblish
-	url = https://github.com/abstractfactory/pyblish.git
+	url = https://github.com/pyblish/pyblish.git
 [submodule "pyblish-endpoint"]
 	path = pyblish-endpoint
-	url = https://github.com/pyblish/pyblish-endpoint
+	url = https://github.com/pyblish/pyblish-endpoint.git
 [submodule "pyblish-qml"]
 	path = pyblish-qml
-	url = https://github.com/pyblish/pyblish-qml
+	url = https://github.com/pyblish/pyblish-qml.git
+[submodule "pyblish-maya"]
+	path = pyblish-maya
+	url = https://github.com/pyblish/pyblish-maya.git
+[submodule "pyblish-nuke"]
+	path = pyblish-nuke
+	url = https://github.com/pyblish/pyblish-nuke.git
+[submodule "pyblish-modo"]
+	path = pyblish-modo
+	url = https://github.com/pyblish/pyblish-modo.git
