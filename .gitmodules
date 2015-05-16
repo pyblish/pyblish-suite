@@ -16,3 +16,6 @@
 [submodule "pyblish-modo"]
 	path = pyblish-modo
 	url = https://github.com/pyblish/pyblish-modo.git
+[submodule "pyblish-houdini"]
+	path = pyblish-houdini
+	url = git@github.com:pyblish/pyblish-houdini.git
